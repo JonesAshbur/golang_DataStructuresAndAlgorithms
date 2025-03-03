@@ -15,7 +15,7 @@ func twoSum(nums []int, target int) []int {
 }
 
 func main() {
-	// 给定切片
+	// 给定数组
 	nums := []int{2, 7, 11, 15}
 	// 目标值
 	target := 9
