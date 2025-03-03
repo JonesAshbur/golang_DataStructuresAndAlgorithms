@@ -14,7 +14,7 @@ func removeDuplicates(nums []int) (int, []int) {
 		//如果当前两个指针指向的元素相等，一个指针就向后移动
 		for nums[j] == nums[i] {
 			j++
-			//如果指针指向最后一个元素就直接返回数组长度和新数组
+			//如果指针指向最后一个元素就直接返回新数组长度和新数组
 			if j == len(nums) {
 				return i + 1, nums[:i+1]
 			}
