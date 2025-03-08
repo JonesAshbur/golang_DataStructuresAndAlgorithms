@@ -1,2 +1,2 @@
-# DataStructuresAndAlgorithms-golang
+﻿# golang_DataStructuresAndAlgorithms
 Record my process of solving the problems in LeetCode in Go and the implementation of the data structure
